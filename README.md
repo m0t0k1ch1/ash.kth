@@ -2,4 +2,6 @@
 
 a Keynote theme
 
-<script async class="speakerdeck-embed" data-id="f7e385e224b44c5dbc7f25ad26aa35cc" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+## Example
+
+["ash" - a Keynote theme by m0t0k1ch1](https://speakerdeck.com/m0t0k1ch1/ash-a-keynote-theme-by-m0t0k1ch1)
