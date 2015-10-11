@@ -1,3 +1,3 @@
 # ash
 
-original Keynote theme
+a Keynote theme
