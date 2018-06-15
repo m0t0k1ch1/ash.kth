@@ -1,6 +1,6 @@
 # ash
 
-a Keynote theme
+a subdued Keynote theme
 
 ## Example
 
