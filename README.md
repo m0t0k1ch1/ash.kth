@@ -1,4 +1,4 @@
-# ash
+# ash.kth
 
 a subdued Keynote theme
 
